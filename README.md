@@ -8,6 +8,7 @@ Players guide the penguin across the snow, navigating the terrain and progressin
 <img width="1920" height="1080" alt="vlcsnap-2026-02-01-22h00m02s044" src="https://github.com/user-attachments/assets/600ca4a5-87ff-4d14-b6da-53061c656d4e" />
 
 https://github.com/user-attachments/assets/62f9127d-423a-4c78-88fe-670c1ffc41f8
+
 <img width="1920" height="1080" alt="vlcsnap-2026-02-01-22h00m10s637" src="https://github.com/user-attachments/assets/9b4984a8-3f13-4ecd-b41d-8adc5eed872d" />
 
 
