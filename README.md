@@ -4,8 +4,11 @@ Frozen Horizon is a calm, atmospheric adventure game set in a vast arctic landsc
 🐧 Gameplay
 Players guide the penguin across the snow, navigating the terrain and progressing toward the horizon. The experience is designed to feel quiet, reflective, and expansive, emphasizing the journey rather than fast-paced mechanics.
 
+📸 Screenshots and sample video
+<img width="1920" height="1080" alt="vlcsnap-2026-02-01-22h00m02s044" src="https://github.com/user-attachments/assets/600ca4a5-87ff-4d14-b6da-53061c656d4e" />
 
 https://github.com/user-attachments/assets/62f9127d-423a-4c78-88fe-670c1ffc41f8
+<img width="1920" height="1080" alt="vlcsnap-2026-02-01-22h00m10s637" src="https://github.com/user-attachments/assets/9b4984a8-3f13-4ecd-b41d-8adc5eed872d" />
 
 
 🎮 Controls
@@ -31,8 +34,9 @@ Audio: Royalty-free piano music (Unity Asset Store / Pixabay)
 Platform: Windows
 
 📄 Credits
-Music: FREE Arctic Piano Music by Soundtrack Forge
-Icons & assets: Unity Asset Store / Free asset packs
+-Music: FREE Arctic Piano Music by Soundtrack Forge
+-Icons & assets: Unity Asset Store / Free asset packs
+-Intro page poster: Google Gemini
 
 🚧 Status
 This project is under active development.
